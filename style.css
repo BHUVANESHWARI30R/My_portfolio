@@ -16,7 +16,7 @@ section {
 .banner {
   position: relative;
   min-height: 100vh;
-  background: url(./img/Landing\ Page.jpg);
+  background: url(./Landing\ Page.jpg);
   opacity: 0.9;
 
   background-size: cover;
